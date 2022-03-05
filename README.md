@@ -12,4 +12,4 @@ Contient:
 -Raise Exception
 -SQL
 -BackEnd et FrontEnd
--Contient aussi un version du projet avec un fichier jar
+-ainsi qu'une version du projet avec un fichier jar
